@@ -1,2 +1,0 @@
-Usefull article about this competition
-https://pub.aimind.so/deep-neural-network-regression-with-tensorflow-keras-predicting-housing-prices-b7ac839d837b
