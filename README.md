@@ -8,7 +8,8 @@ So the task is to predict house prices based on the 79 fatures that are describi
 1. EDA 
    * distribution of some features,
    * features correlation,
-   * closer look to a sale price feature, 
+   * closer look to a sale price feature,
+     
   Some key informations:
   * there are numeric and categorical features,
   * we got some missing values, some of them are true missing values,
