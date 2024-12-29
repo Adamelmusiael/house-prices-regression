@@ -13,6 +13,12 @@ So the task is to predict house prices based on the 79 fatures that are describi
   * SalePrice feature is right-skewed,
     logarithmic transformation tend to fix this issue.
 2. Data Preprocessing
+In this part I have done following things:
+* dropped features with missing values above 70%,
+* filled missing values, for categorical and numerical columns,
+* reduced skeweness,
+* scaled the data,
+* encoded non numerical data.
 3. Model Building
 4. Hyperparameter Optimization
 5. Test prediction
