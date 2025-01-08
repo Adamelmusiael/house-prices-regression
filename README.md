@@ -20,6 +20,12 @@ In this part I have done following things:
 * scaled the data,
 * encoded non numerical data.
 3. Model Building
+  
+  This part will be devided into 2 parts.
+  
+   **Part 1.** Here I ve done some operations with DNNs I've started with preparing data than I ve moved to model building. Here I've created model  architecture and did some deeper recognition and first submission (baseline). After that I did hyperparameter tunning which resulted in finding new better  hyperparameters and better score. Finally I've experimented with ensembled methods and this let me get way further to the top 30% of the competition.
+
+  Part 2.  
 4. Hyperparameter Optimization
 5. Test prediction
 6. Experimentation 
