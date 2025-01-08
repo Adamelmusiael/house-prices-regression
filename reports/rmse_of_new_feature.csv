@@ -1,0 +1,4 @@
+,model, rmse
+0,DNN,34359.96875
+1,LinearRegression,31510.171875
+2,RandomForestRegressor,29265.498046875
